@@ -1,0 +1,16 @@
+Problem/Situation:
+
+You want to Know how to lock or unlock the domain to prevent unauthorized changes or enable transfer to another registrar.
+
+Solution:
+
+To lock or unlock a domain name, follow the steps below.
+
+Step 1: Log in to your NetSpaceIndia control panel and check your account details. Click on the Domains section of the main account screen.
+Step 2: Click on the domain you want to unlock.
+Step 3: Domains are locked by default to prevent accidental changes or deletion. Look for the “Registrar Lock” option in the Manage section.
+Step 4: You can lock and unlock your domain by switching ”Registrar Lock Status”.
+
+Conclusion:
+
+NetspaceIndia offers a user-friendly and secure solution for locking or unlocking your domain name. With just a few simple steps, you can have complete control over your domain's security and prevent unauthorized changes.
